@@ -1,0 +1,7 @@
+{
+    "input_dir": "E:/AI Model/spacy/resume-parser/input/resumes",
+    "output_dir": "E:/AI Model/spacy/resume-parser/output/processed",
+    "report_dir": "E:/AI Model/spacy/resume-parser/output/reports",
+    "spacy_model": "en_core_web_lg"
+   
+}
